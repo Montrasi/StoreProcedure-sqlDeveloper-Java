@@ -1,4 +1,4 @@
-import Dto.Person;
+import DTO.Person;
 import Enums.ProcedureOrQueryEnum;
 import Enums.TypeActionEnum;
 
@@ -209,4 +209,3 @@ public class MainOracleSqlDeveloper {
         }
     }
 }
-

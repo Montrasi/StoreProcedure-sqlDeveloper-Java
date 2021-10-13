@@ -1,4 +1,4 @@
-import Dto.Person;
+import DTO.Person;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

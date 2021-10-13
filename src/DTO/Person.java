@@ -1,6 +1,4 @@
-package Dto;
-
-import java.lang.reflect.Field;
+package DTO;
 
 public class Person {
     private Long id;
